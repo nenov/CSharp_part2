@@ -1,0 +1,5 @@
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseString\bin\Debug\ReverseString.exe.config
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseString\bin\Debug\ReverseString.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseString\bin\Debug\ReverseString.pdb
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseString\obj\Debug\ReverseString.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseString\obj\Debug\ReverseString.pdb

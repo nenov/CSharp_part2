@@ -1,0 +1,5 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\FormatNumber\bin\Debug\FormatNumber.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\FormatNumber\bin\Debug\FormatNumber.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\FormatNumber\bin\Debug\FormatNumber.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\FormatNumber\obj\Debug\FormatNumber.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\FormatNumber\obj\Debug\FormatNumber.pdb

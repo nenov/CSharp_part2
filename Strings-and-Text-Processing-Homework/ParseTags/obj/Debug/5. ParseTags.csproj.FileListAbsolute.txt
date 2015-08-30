@@ -1,0 +1,5 @@
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseTags\bin\Debug\ParseTags.exe.config
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseTags\bin\Debug\ParseTags.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseTags\bin\Debug\ParseTags.pdb
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseTags\obj\Debug\ParseTags.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseTags\obj\Debug\ParseTags.pdb

@@ -1,0 +1,1 @@
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config

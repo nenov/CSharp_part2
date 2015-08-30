@@ -1,0 +1,3 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseSentence\obj\Debug\ReverseSentence.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ReverseSentence\obj\Debug\ReverseSentence.pdb

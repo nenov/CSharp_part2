@@ -1,0 +1,6 @@
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\EncodeDecode\bin\Debug\EncodeDecode.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\EncodeDecode\bin\Debug\EncodeDecode.pdb
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\EncodeDecode\obj\Debug\7. EncodeDecode.csprojResolveAssemblyReference.cache
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\EncodeDecode\obj\Debug\EncodeDecode.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\EncodeDecode\obj\Debug\EncodeDecode.pdb

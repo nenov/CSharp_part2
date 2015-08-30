@@ -1,0 +1,7 @@
+1.Write a program that reads a text file and prints on the console its odd lines.
+2.Write a something that reads a text file and prints on the console its odd lines.
+3.Write a something that reads a text file and prints on the console its odd lines.
+4.Write a program that reads a text file and prints on the console its odd lines.
+5.Write a something that reads a text file and prints on the console its odd lines.
+6.Write a program that reads a text file and prints on the console its odd lines.
+7.Write a something that reads a text file and prints on the console its odd lines.

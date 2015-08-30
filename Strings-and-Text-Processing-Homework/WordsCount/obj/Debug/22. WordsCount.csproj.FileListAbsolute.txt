@@ -1,0 +1,5 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordsCount\bin\Debug\WordsCount.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordsCount\bin\Debug\WordsCount.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordsCount\bin\Debug\WordsCount.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordsCount\obj\Debug\WordsCount.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordsCount\obj\Debug\WordsCount.pdb

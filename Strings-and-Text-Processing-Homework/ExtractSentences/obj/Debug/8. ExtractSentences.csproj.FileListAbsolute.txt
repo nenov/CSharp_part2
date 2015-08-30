@@ -1,0 +1,5 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractSentences\bin\Debug\ExtractSentences.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractSentences\bin\Debug\ExtractSentences.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractSentences\obj\Debug\ExtractSentences.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractSentences\obj\Debug\ExtractSentences.pdb

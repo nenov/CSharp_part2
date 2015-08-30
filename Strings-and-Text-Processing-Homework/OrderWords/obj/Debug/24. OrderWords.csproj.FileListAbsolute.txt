@@ -1,0 +1,5 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\OrderWords\bin\Debug\OrderWords.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\OrderWords\bin\Debug\OrderWords.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\OrderWords\bin\Debug\OrderWords.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\OrderWords\obj\Debug\OrderWords.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\OrderWords\obj\Debug\OrderWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseURL\obj\Debug\12. ParseURL.csprojResolveAssemblyReference.cache
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseURL\bin\Debug\ParseURL.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseURL\bin\Debug\ParseURL.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseURL\bin\Debug\ParseURL.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseURL\obj\Debug\ParseURL.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ParseURL\obj\Debug\ParseURL.pdb

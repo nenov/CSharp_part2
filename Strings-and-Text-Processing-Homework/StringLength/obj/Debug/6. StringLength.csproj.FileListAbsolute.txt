@@ -1,0 +1,5 @@
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\StringLength\bin\Debug\StringLength.exe.config
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\StringLength\bin\Debug\StringLength.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\StringLength\bin\Debug\StringLength.pdb
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\StringLength\obj\Debug\StringLength.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\StringLength\obj\Debug\StringLength.pdb

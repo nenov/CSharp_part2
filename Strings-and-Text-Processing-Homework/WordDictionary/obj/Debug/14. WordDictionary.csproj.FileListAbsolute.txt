@@ -1,0 +1,6 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordDictionary\bin\Debug\WordDictionary.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordDictionary\bin\Debug\WordDictionary.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordDictionary\bin\Debug\WordDictionary.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordDictionary\obj\Debug\14. WordDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordDictionary\obj\Debug\WordDictionary.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\WordDictionary\obj\Debug\WordDictionary.pdb

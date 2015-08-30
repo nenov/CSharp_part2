@@ -1,0 +1,6 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ForbiddenWords\bin\Debug\ForbiddenWords.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ForbiddenWords\bin\Debug\ForbiddenWords.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ForbiddenWords\obj\Debug\9. ForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ForbiddenWords\obj\Debug\ForbiddenWords.pdb

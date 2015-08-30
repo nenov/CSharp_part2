@@ -1,0 +1,5 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractEmails\bin\Debug\ExtractEmails.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractEmails\bin\Debug\ExtractEmails.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractEmails\obj\Debug\ExtractEmails.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\ExtractEmails\obj\Debug\ExtractEmails.pdb

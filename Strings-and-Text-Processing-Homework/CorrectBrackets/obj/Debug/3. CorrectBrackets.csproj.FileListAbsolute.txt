@@ -1,0 +1,5 @@
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

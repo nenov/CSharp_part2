@@ -1,0 +1,6 @@
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\DateInBulgarian\bin\Debug\DateInBulgarian.exe.config
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\DateInBulgarian\bin\Debug\DateInBulgarian.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\DateInBulgarian\bin\Debug\DateInBulgarian.pdb
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\DateInBulgarian\obj\Debug\17. DateInBulgarian.csprojResolveAssemblyReference.cache
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\DateInBulgarian\obj\Debug\DateInBulgarian.exe
+C:\Users\Nenov\Documents\Visual Studio 2013\Projects\Strings-and-Text-Processing-Homework\DateInBulgarian\obj\Debug\DateInBulgarian.pdb

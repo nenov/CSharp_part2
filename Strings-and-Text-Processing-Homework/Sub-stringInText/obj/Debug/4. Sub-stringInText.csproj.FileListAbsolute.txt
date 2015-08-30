@@ -1,0 +1,5 @@
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\Sub-stringInText\bin\Debug\Sub-stringInText.exe.config
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\Sub-stringInText\bin\Debug\Sub-stringInText.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\Sub-stringInText\bin\Debug\Sub-stringInText.pdb
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\Sub-stringInText\obj\Debug\Sub-stringInText.exe
+c:\users\nenov\documents\visual studio 2013\Projects\Strings-and-Text-Processing-Homework\Sub-stringInText\obj\Debug\Sub-stringInText.pdb

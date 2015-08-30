@@ -1,0 +1,8 @@
+are: 2
+we: 1
+they: 1
+is: 1
+she: 0
+he: 0
+you: 0
+me: 0
